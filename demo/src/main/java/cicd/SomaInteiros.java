@@ -7,7 +7,7 @@ package cicd;
 public class SomaInteiros {
 
     public int somar(int a, int b) {
-        return a + b;
+        return a + b + 1;
     }
 
     public static void main(String[] args) {
